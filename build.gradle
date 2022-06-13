@@ -13,12 +13,12 @@ buildscript {
     }
 }
 //хз что это, скопировал из презентации
-allprojects {
-    repositories {
-        google()
-        jcenter()
-    }
-}
+//allprojects {
+//    repositories {
+//        google()
+//        jcenter()
+//    }
+//}
 //
 
 task clean(type: Delete) {
