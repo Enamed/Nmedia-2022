@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import ru.netology.nmedia_2022.databinding.ActivityMainBinding
 import ru.netology.nmedia_2022.utils.Utils
 
-
+//
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
